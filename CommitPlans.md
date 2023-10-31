@@ -1,0 +1,11 @@
+# Commit plans:
+- this document
+- basic and intermediate python scripts (https://github.com/muktoakash/Python_Practice)
+- Upload all Java files (New Repo)
+- Upload C files (New Repo)
+- Update simulation code (https://github.com/muktoakash/SimulationCode)
+- start working on learn CPP (https://github.com/muktoakash/learncpp)
+- start working on learning HTML/CSS (https://github.com/muktoakash/Learning-web-HTML5-CSS-Javascript)
+- More django projects (new repo)
+- Update and clean up excel and data analysis repos
+- Clean up unused repos
