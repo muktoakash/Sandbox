@@ -9,3 +9,6 @@
 - More django projects (new repo)
 - Update and clean up excel and data analysis repos
 - Clean up unused repos
+
+# Download all repos:
+GHUSER=muktoakash; curl "https://api.github.com/users/$GHUSER/repos?per_page=1000" | grep -o 'git@[^"]*' | xargs -L1 git clone
