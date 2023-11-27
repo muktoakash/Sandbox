@@ -1,7 +1,7 @@
 # Commit plans:
 - this document
 - basic and intermediate python scripts (https://github.com/muktoakash/Python_Practice)
-- Upload all Java files (New Repo)
+- ~Upload all Java files (New Repo)~
 - Upload C files (New Repo)
 - Update simulation code (https://github.com/muktoakash/SimulationCode)
 - start working on CPP (New Repo. The repo for learncpp is from a book.)
