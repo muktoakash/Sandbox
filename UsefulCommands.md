@@ -1,4 +1,4 @@
-#Windows:
+# Windows:
 driverquery
 systeminfo
 set
@@ -38,9 +38,10 @@ dispdiag
 klist
 route print
 
-#Github:
+# Github:
 -winget install gh (winget install github.cli)
 -git auth login
 - gh repo list myorgname --limit 4000 | while read -r repo _; do
   gh repo clone "$repo" "$repo"
 done
+- GHUSER=muktoakash; curl "https://api.github.com/users/$GHUSER/repos?per_page=1000" | grep -o 'git@[^"]*' | xargs -L1 git clone
