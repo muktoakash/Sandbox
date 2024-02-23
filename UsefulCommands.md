@@ -45,3 +45,7 @@ route print
   gh repo clone "$repo" "$repo"
 done
 - GHUSER=muktoakash; curl "https://api.github.com/users/$GHUSER/repos?per_page=1000" | grep -o 'git@[^"]*' | xargs -L1 git clone
+
+# Bash:
+for dir in "$directory"/*; do if [ -d "$dir" ]; then mv -v "$dir"/* "$directory"/; fi; done;
+
