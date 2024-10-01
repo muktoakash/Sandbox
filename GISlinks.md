@@ -26,4 +26,53 @@ ESRI open access national datasets:
 
 https://livingatlas.arcgis.com/esri_ngda_datasets/
 
+ArcGIS blog:
+
+https://www.esri.com/arcgis-blog/products/insights/analytics/epidemiology-and-arcgis-insights-part-1/
+
+California Flood Data:
+
+https://water.ca.gov/Programs/Flood-Management/Flood-Data
+
+Halifax Data:
+
+https://data-hrm.hub.arcgis.com/
+
+Intro to GIS and spatial analysis:
+
+https://mgimond.github.io/Spatial/index.html
+
+Kitchener GeoHub:
+
+https://open-kitchenergis.opendata.arcgis.com/
+
+Ministry: Natural Resources and Forestry
+
+https://data.ontario.ca/organization/natural-resources-and-forestry
+
+Montreal Maps and Geospatial Data:
+
+https://libraryguides.mcgill.ca/c.php?g=467943&p=4621105
+
+NASA EarthData:
+
+https://lpdaac.usgs.gov/tools/earthdata-search/
+
+Natural Resources Canada:
+
+https://natural-resources.canada.ca/earth-sciences/geography/atlas-canada/explore-our-data/16892
+
+NSCC libraries Geospatial data:
+
+https://subjectguides.nscc.ca/gis/data
+
+Ontario GeoHub:
+
+https://geohub.lio.gov.on.ca/
+
+Nova Scotia data:
+
+https://data.novascotia.ca/
+
+
 
