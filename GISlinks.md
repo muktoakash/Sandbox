@@ -22,4 +22,8 @@ SNAP:
 
 https://step.esa.int/main/download/snap-download/
 
+ESRI open access national datasets:
+
+https://livingatlas.arcgis.com/esri_ngda_datasets/
+
 
