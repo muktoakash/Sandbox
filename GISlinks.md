@@ -90,5 +90,9 @@ Nova Scotia data:
 
 https://data.novascotia.ca/
 
+LandSat vs Sentinel:
+
+https://www.usgs.gov/faqs/how-does-data-sentinel-2as-multispectral-instrument-compare-landsat-data
+
 
 
