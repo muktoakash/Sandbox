@@ -70,6 +70,22 @@ Ontario GeoHub:
 
 https://geohub.lio.gov.on.ca/
 
+QGIS documentation:
+
+https://www.qgis.org/resources/hub/
+
+Sentinel Hub DEM:
+
+https://docs.sentinel-hub.com/api/latest/data/dem/
+
+TMU Open Data:
+
+https://library.torontomu.ca/gmdc/madar/geo-data/public/open/
+
+USGS EarthExplorer:
+
+https://earthexplorer.usgs.gov/
+
 Nova Scotia data:
 
 https://data.novascotia.ca/
