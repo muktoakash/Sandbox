@@ -108,5 +108,10 @@ Canadian Digital Elevation Data (1:50,000)
 
 https://library.mcmaster.ca/maps/geospatial/canadian-digital-elevation-data-150000
 
+Canadian Digital Elevation Model, 1945-2011
 
+https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333
+
+Natural Resource Canada
+https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/topographic-tools-and-data/download-directory-documentation/17215
 
