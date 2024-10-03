@@ -115,3 +115,18 @@ https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333
 Natural Resource Canada
 https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/topographic-tools-and-data/download-directory-documentation/17215
 
+Tutorial on Application of QGIS Software for Precision Agriculture
+
+https://adamchukpa.mcgill.ca/qgis/index.html
+
+Measuring Heat Islands
+
+https://www.epa.gov/heatislands/measuring-heat-islands
+
+An alternative method to characterize the surface urban heat island
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449950/
+
+Land Surface Temperature
+
+https://climate.esa.int/en/projects/land-surface-temperature/
