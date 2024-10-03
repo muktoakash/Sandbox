@@ -100,5 +100,13 @@ https://www.nhc.noaa.gov/archive/2024/HELENE_graphics.php
 
 https://www.usgs.gov/faqs/how-does-data-sentinel-2as-multispectral-instrument-compare-landsat-data
 
+PrepYourCartographyProject
+
+https://www.arcgis.com/home/item.html?id=27b26d8f151d434da5a03b9c85e4b2dd
+
+Canadian Digital Elevation Data (1:50,000)
+
+https://library.mcmaster.ca/maps/geospatial/canadian-digital-elevation-data-150000
+
 
 
