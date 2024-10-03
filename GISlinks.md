@@ -92,6 +92,12 @@ https://data.novascotia.ca/
 
 LandSat vs Sentinel:
 
+HELENE Graphics Archive:
+Initial Wind Field and Watch/Warning Graphic
+
+https://www.nhc.noaa.gov/archive/2024/HELENE_graphics.php
+
+
 https://www.usgs.gov/faqs/how-does-data-sentinel-2as-multispectral-instrument-compare-landsat-data
 
 
