@@ -143,3 +143,15 @@ Web Mapping with QGIS2Web (QGIS3)
 
 https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html
 
+A Web Mapping Tutorial for Beginners Using QGIS
+
+https://dges.carleton.ca/CUOSGwiki/index.php/A_Web_Mapping_Tutorial_for_Beginners_Using_QGIS
+
+Add Google Maps to QGIS 3
+
+https://socalgis.org/2019/11/06/add-google-maps-to-qgis-3/
+
+How to add Google Maps services to QGIS
+
+https://mapscaping.com/google-satellite-imagery-and-google-maps-in-qgis/
+
