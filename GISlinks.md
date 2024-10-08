@@ -127,6 +127,14 @@ An alternative method to characterize the surface urban heat island
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449950/
 
+Copernicus data
+
+https://browser.dataspace.copernicus.eu/?zoom=5&lat=50.14875&lng=20.78613&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
+
+Make an Interactive Map in 5 Minutes Using QGIS and MapBox
+
+https://medium.com/@adamcohn_78119/make-an-interactive-map-in-5-minutes-using-qgis-and-mapbox-b0b4cbf736af
+
 Land Surface Temperature
 
 https://climate.esa.int/en/projects/land-surface-temperature/
