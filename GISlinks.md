@@ -138,3 +138,8 @@ https://medium.com/@adamcohn_78119/make-an-interactive-map-in-5-minutes-using-qg
 Land Surface Temperature
 
 https://climate.esa.int/en/projects/land-surface-temperature/
+
+Web Mapping with QGIS2Web (QGIS3)
+
+https://www.qgistutorials.com/en/docs/3/web_mapping_with_qgis2web.html
+
