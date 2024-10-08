@@ -155,3 +155,18 @@ How to add Google Maps services to QGIS
 
 https://mapscaping.com/google-satellite-imagery-and-google-maps-in-qgis/
 
+Copernicus data
+
+https://browser.dataspace.copernicus.eu/?zoom=6&lat=45.66013&lng=-78.20068&visualizationUrl=U2FsdGVkX18u5EP26vibm22tVSYrTfxek%2BW6O5x9feSDXbJRgUsWJNJ4qtgS7LPSsWjOcMSrvt%2B8%2F2CAnri455YW%2BtZRSv0SLGVVH3MPx9ZccLbeb%2BJxGjNfG8rAxItY&datasetId=3c662330-108b-4378-8899-525fd5a225cb&fromTime=2023-12-01T00%3A00%3A00.000Z&toTime=2023-12-01T23%3A59%3A59.999Z&layerId=0-RGB-RATIO&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE
+
+Supervised Classification 
+
+https://support.ecognition.com/hc/en-us/articles/360016174419-Supervised-Classification
+
+How to Create an Interferogram Using ESA’s Sentinel-1 Toolbox
+
+https://asf.alaska.edu/how-to/data-recipes/create-an-interferogram-using-esas-sentinel-1-toolbox/
+
+Sentinel-1 Algorithms
+
+https://developers.google.com/earth-engine/guides/sentinel1
