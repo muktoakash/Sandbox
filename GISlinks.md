@@ -1,3 +1,15 @@
+Natural Resources Canada
+
+https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/topographic-tools-and-data/download-directory-documentation/17215
+
+Canadian Digital Elevation Model, 1945-2011
+
+https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333
+
+Canadian Digital Elevation Data (1:50,000)
+
+https://library.mcmaster.ca/maps/geospatial/canadian-digital-elevation-data-150000
+
 Ice Road to Diamonds Part 1: Prep Your Cartography Project
 
 https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/prep-your-cartography-project/
