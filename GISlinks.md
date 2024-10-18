@@ -1,3 +1,11 @@
+Hurricane Milton: aerial imagery
+
+https://oceanservice.noaa.gov/news/oct24/ngs-storm-imagery-milton.html
+
+K-Means (KM) Cluster Analysis
+
+https://step.esa.int/main/doc/online-help/?helpid=clusterAnalysisKMeans&version=10.0.0
+
 Land Surface Temperature
 
 https://climate.esa.int/en/projects/land-surface-temperature/
