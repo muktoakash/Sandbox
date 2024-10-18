@@ -1,3 +1,12 @@
+Ice Road to Diamonds Part 1: Prep Your Cartography Project
+
+https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/prep-your-cartography-project/
+
+HELENE Graphics Archive:
+Initial Wind Field and Watch/Warning Graphic
+
+https://www.nhc.noaa.gov/archive/2024/HELENE_graphics.php
+
 Downloading, Visualizing and Preprocessing Sentinel-2 Data in SNAP
 
 https://dges.carleton.ca/CUOSGwiki/index.php/Downloading,_Visualizing_and_Preprocessing_Sentinel-2_Data_in_SNAP#Spectrum_View
