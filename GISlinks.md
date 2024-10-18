@@ -1,3 +1,7 @@
+Measuring Heat Islands
+
+https://www.epa.gov/heatislands/measuring-heat-islands
+
 Making a Map
 
 https://www.qgistutorials.com/en/docs/making_a_map.html
