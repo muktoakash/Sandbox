@@ -1,3 +1,27 @@
+Automating distance and capacity measurements?
+
+https://www.reddit.com/r/QGIS/comments/s1orr7/automating_distance_and_capacity_measurements/?rdt=63161
+
+QGIS Measure Distance Using Field Calculator
+
+https://gis.stackexchange.com/questions/335578/qgis-measure-distance-using-field-calculator
+
+GIS Skills Showcase
+
+https://storymaps.arcgis.com/stories/5c4545dc8ab846f38f565762340a593f
+
+Esri Open Access National Datasets
+
+https://livingatlas.arcgis.com/esri_ngda_datasets/
+
+Geographic Information Systems: Find Geospatial Data
+
+https://subjectguides.nscc.ca/gis/data
+
+Geospatial Map & Data Centre
+
+https://library.torontomu.ca/gmdc/madar/geo-data/public/open/
+
 Ontario GeoHub
 
 https://geohub.lio.gov.on.ca/
