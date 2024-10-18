@@ -1,3 +1,32 @@
+Ontario GeoHub
+
+https://geohub.lio.gov.on.ca/
+
+CivilEng. Qgis provider for Civil Engineering tools
+
+https://github.com/MBR111/CivilEng
+
+Applying GIS Solutions in The Real Estate Industry
+
+https://www.linkedin.com/pulse/applying-gis-solutions-real-estate-industry-vladimir-ovramenko/
+
+InaSAFE
+
+https://github.com/inasafe/inasafe
+
+Modeling Suitable Habitat for a Species of Conservation Concern: An Introduction to 
+Spatial Analysis with QGIS
+
+https://www.amnh.org/content/download/304774/4829791/file/modeling-suitable-habitat-for-a-species-of-conservation-concern-an-introduction-to-spatial-analysis-with-qgis.pdf
+
+Urban Sprawl Metrics (USM) Toolset – User Manual for QGIS
+
+https://spectrum.library.concordia.ca/id/eprint/992680/1/QGIS_USM-Toolset-User-Manual_FirstEdition.pdf
+
+GOES East (GOES 16)
+
+https://www.noaa.gov/jetstream/goes_east
+
 Hurricane Milton: aerial imagery
 
 https://oceanservice.noaa.gov/news/oct24/ngs-storm-imagery-milton.html
