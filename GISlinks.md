@@ -1,3 +1,15 @@
+Land Surface Temperature
+
+https://climate.esa.int/en/projects/land-surface-temperature/
+
+An alternative method to characterize the surface urban heat island
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4449950/
+
+Tutorial on Application of QGIS Software for Precision Agriculture
+
+https://adamchukpa.mcgill.ca/qgis/index.html
+
 Natural Resources Canada
 
 https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/topographic-tools-and-data/download-directory-documentation/17215
