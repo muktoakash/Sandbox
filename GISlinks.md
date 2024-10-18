@@ -1,3 +1,7 @@
+An Introduction to Mapping and Spatial Analysis with QGIS (presentation slides)
+
+https://mdl.library.utoronto.ca/technology/tutorials/introduction-mapping-and-spatial-analysis-qgis
+
 ArcGIS open data:
 
 https://www.esri.com/en-us/arcgis/products/arcgis-open-data
