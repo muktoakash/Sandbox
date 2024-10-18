@@ -1,3 +1,7 @@
+Making a Map
+
+https://www.qgistutorials.com/en/docs/making_a_map.html
+
 An Introduction to Mapping and Spatial Analysis with QGIS (presentation slides)
 
 https://mdl.library.utoronto.ca/technology/tutorials/introduction-mapping-and-spatial-analysis-qgis
