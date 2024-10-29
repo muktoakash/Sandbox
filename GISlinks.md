@@ -1,3 +1,6 @@
+RADAR SAR IMAGERY MULTITEMPORAL RGB COLOR COMPOSITES GENERATION IN ESA SNAP
+https://www.youtube.com/watch?v=xAG7jNOLlLs
+
 Automating distance and capacity measurements?
 
 https://www.reddit.com/r/QGIS/comments/s1orr7/automating_distance_and_capacity_measurements/?rdt=63161
@@ -123,6 +126,8 @@ https://co-opendata-camaps.hub.arcgis.com/
 Copernicus open data:
 
 https://scihub.copernicus.eu/
+
+https://dataspace.copernicus.eu/
 
 Montreal Data:
 
