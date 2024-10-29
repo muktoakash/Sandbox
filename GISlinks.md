@@ -236,32 +236,15 @@ https://data.novascotia.ca/
 
 LandSat vs Sentinel:
 
-HELENE Graphics Archive:
-Initial Wind Field and Watch/Warning Graphic
-
-https://www.nhc.noaa.gov/archive/2024/HELENE_graphics.php
-
-
 https://www.usgs.gov/faqs/how-does-data-sentinel-2as-multispectral-instrument-compare-landsat-data
 
 PrepYourCartographyProject
 
 https://www.arcgis.com/home/item.html?id=27b26d8f151d434da5a03b9c85e4b2dd
 
-Canadian Digital Elevation Data (1:50,000)
-
-https://library.mcmaster.ca/maps/geospatial/canadian-digital-elevation-data-150000
-
-Canadian Digital Elevation Model, 1945-2011
-
-https://open.canada.ca/data/en/dataset/7f245e4d-76c2-4caa-951a-45d1d2051333
-
 Natural Resource Canada
+
 https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/topographic-tools-and-data/download-directory-documentation/17215
-
-Tutorial on Application of QGIS Software for Precision Agriculture
-
-https://adamchukpa.mcgill.ca/qgis/index.html
 
 Measuring Heat Islands
 
