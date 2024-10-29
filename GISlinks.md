@@ -1,3 +1,7 @@
+Google Earth CDEM index:
+
+https://earth.google.com/web/@61.86130263,-97.36554424,123.46543173a,7416297.32055727d,30.15485861y,359.96703771h,0t,0r/data=CgRCAggBQgIIAEoICM__2vgDEAA
+
 GIS Skills Showcase: Effective mapping and spatial analysis
 
 https://storymaps.arcgis.com/stories/5c4545dc8ab846f38f565762340a593f
