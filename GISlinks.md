@@ -1,3 +1,7 @@
+GIS Skills Showcase: Effective mapping and spatial analysis
+
+https://storymaps.arcgis.com/stories/5c4545dc8ab846f38f565762340a593f
+
 Air Transportation Network
 
 https://open.canada.ca/data/en/dataset/7d8be698-0ac1-5afd-9608-408448a18576
