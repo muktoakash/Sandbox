@@ -54,10 +54,6 @@ Geospatial Map & Data Centre
 
 https://library.torontomu.ca/gmdc/madar/geo-data/public/open/
 
-Ontario GeoHub
-
-https://geohub.lio.gov.on.ca/
-
 CivilEng. Qgis provider for Civil Engineering tools
 
 https://github.com/MBR111/CivilEng
