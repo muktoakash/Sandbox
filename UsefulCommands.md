@@ -49,3 +49,8 @@ done
 # Bash:
 for dir in "$directory"/*; do if [ -d "$dir" ]; then mv -v "$dir"/* "$directory"/; fi; done;
 
+# Linux
+
+## Grub Resources:
+
+[Link](https://phoenixnap.com/kb/grub-rescue)
