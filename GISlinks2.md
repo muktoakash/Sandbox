@@ -44,6 +44,15 @@
 
 [Hy2roresO - How to…?](https://hy2roreso.readthedocs.io/en/latest/user-docs/how_to.html)
 
+[Income inequality statistics across Canada: Canada, provinces and territories, census divisions and census subdivisions1](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810009601&pickMembers%5B0%5D=1.1)
+
+[Canada - Households and the Environment Survey: Energy use, 2015](https://www150.statcan.gc.ca/n1/daily-quotidien/171201/dq171201f-eng.htm)
+
+[North American Cooperation on Energy Information, Mapping Data](https://app.geo.ca/en-ca/map-browser/record/aae6619f-f9f3-435d-bc32-42decd58b674)
+
+[Canada - 2021 Census – Boundary files](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
+
+
 
 
 
