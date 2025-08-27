@@ -52,7 +52,22 @@
 
 [Canada - 2021 Census – Boundary files](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
 
+[Canada - The Open Database of Educational Facilities](https://www150.statcan.gc.ca/n1/pub/37-26-0001/372600012022001-eng.htm)
 
+[Get started with ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm)
+
+[Earth Online - data](https://earth.esa.int/eogateway/search?category=data&data_access_type=eo-sign-in-authentication-open-)
+
+[Canadian Ice Service](https://www.canada.ca/en/environment-climate-change/services/ice-forecasts-observations/about-ice-service.html)
+
+[Introduction to GIS](https://mgimond.github.io/Spatial/introGIS.html)
+
+[Modeling Suitable Habitat for a Species of Conservation Concern: An Introduction to
+Spatial Analysis with QGIS](https://www.amnh.org/content/download/304774/4829791/file/modeling-suitable-habitat-for-a-species-of-conservation-concern-an-introduction-to-spatial-analysis-with-qgis.pdf)
+
+[openeo-community-examples/python/OilSpill](https://github.com/Open-EO/openeo-community-examples/blob/main/python/OilSpill/OilSpillMapping.ipynb)
+
+[Oil Spill - s1tbx/s1tbx-op-feature-extraction/src/main/java/org/esa/s1tbx/fex/gpf/oceantools](https://github.com/senbox-org/s1tbx/blob/master/s1tbx-op-feature-extraction/src/main/java/org/esa/s1tbx/fex/gpf/oceantools/OilSpillDetectionOp.java)
 
 
 
