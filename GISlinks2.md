@@ -34,5 +34,19 @@
 
 [Forest fire flame and smoke detection from UAV-captured images using fire-specific color features and multi-color space local binary pattern](https://cdnsciencepub.com/doi/10.1139/juvs-2020-0009)
 
+[Automating Complex Workflows using Processing Modeler (QGIS3)](https://www.qgistutorials.com/en/docs/3/processing_graphical_modeler.html)
+
+[Working with Esri File Geodatabase (gdb) Files in QGIS and GDAL](https://mapscaping.com/working-with-esri-file-geodatabase-gdb-files-in-qgis-and-gdal/)
+
+[ArcGIS REST API Services in QGIS](https://mapscaping.com/arcgis-rest-api-services-in-qgis/)
+
+[Canada - Geospatial data, tools and services](https://natural-resources.canada.ca/science-data/data-analysis/geospatial-data-tools-services/geospatial-data-tools-services)
+
+[Hy2roresO - How to…?](https://hy2roreso.readthedocs.io/en/latest/user-docs/how_to.html)
+
+
+
+
+
 
 
