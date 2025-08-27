@@ -11,3 +11,11 @@
 [Geospatial Data: Ontario](https://researchguides.library.yorku.ca/c.php?g=679467&p=4793167)
 
 [Ontario - School information and student demographics](https://data.ontario.ca/dataset/school-information-and-student-demographics)
+
+[UofT - Data and Statistics in Education](https://guides.library.utoronto.ca/edu-data/edu-data-provincial)
+
+[UofT - PCCF Guide (Postal Code)](https://mdl.library.utoronto.ca/technology/tutorials/pccf-guide)
+
+[Using Optical Data to Map Floods](https://www.zfl.uni-bonn.de/resources-1/training-module-handbook-contents/flood-module/using-optical-data-to-detect-flooded-areas)
+
+[UN - Step by Step: Recommended Practice Flood Mapping](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-flood-mapping/step-by-step)
