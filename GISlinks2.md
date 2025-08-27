@@ -19,3 +19,20 @@
 [Using Optical Data to Map Floods](https://www.zfl.uni-bonn.de/resources-1/training-module-handbook-contents/flood-module/using-optical-data-to-detect-flooded-areas)
 
 [UN - Step by Step: Recommended Practice Flood Mapping](https://www.un-spider.org/advisory-support/recommended-practices/recommended-practice-flood-mapping/step-by-step)
+
+[Open GIS Lab - Flood Mapping with Sentinel-1 Data using SNAP and QGIS](https://opengislab.com/blog/2018/5/14/flood-mapping-with-sentinel-1-data-using-snap-and-qgis)
+
+[UN - Step by Step: Flood Mapping and Damage Assessment using S2 Data](https://www.un-spider.org/advisory-support/recommended-practices/flood-mapping-and-damage-assessment-using-s2-data/step-by-step)
+
+[eo college - Towards Zero Hunger – Hands-on: Active Fire Detection with Sentinel-3 Data](https://eo-college.org/courses/towards-zero-hunger-hands-on-active-fire-detection/)
+
+[RUS Webinar: Freshwater Quality Monitoring with Sentinel-2 - HYDR02](https://www.youtube.com/watch?v=Fx01Jtif884)
+
+[Copernicus RUS Training Materials](https://eo4society.esa.int/resources/copernicus-rus-training-materials/)
+
+[Fire Risk Analysis using QGIS](https://dges.carleton.ca/CUOSGwiki/index.php/Fire_Risk_Analysis_using_QGIS)
+
+[Forest fire flame and smoke detection from UAV-captured images using fire-specific color features and multi-color space local binary pattern](https://cdnsciencepub.com/doi/10.1139/juvs-2020-0009)
+
+
+
